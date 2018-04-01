@@ -1,2 +1,2 @@
 # docker-shop
-Home web site
+Shop web site
